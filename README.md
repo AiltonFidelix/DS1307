@@ -63,6 +63,6 @@ void app_main()
 
 ### Author
 
-Create by Ailton Fidelix
+Created by Ailton Fidelix
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ailton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ailtonfidelix/)](https://www.linkedin.com/in/ailton-fidelix-9603b31b7/) 
