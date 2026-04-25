@@ -1,6 +1,6 @@
 /**
  * @file ds1307.c
- * @author Ailton Fidelix (ailton1626@gmail.com)
+ * @author Ailton Fidelix
  * @brief DS1307 RTC library for ESP-IDF
  * @version 1.0.0
  * @date 07-09-2022
